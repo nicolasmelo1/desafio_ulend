@@ -1,4 +1,3 @@
-
 from desafio_ulend.service import InvestmentService
 import os
 
